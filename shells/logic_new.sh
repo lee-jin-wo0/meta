@@ -14,3 +14,4 @@ if [ $# -eq 2 ]; then
 else
     echo "Input two parameters..!!"
 fi
+fi
